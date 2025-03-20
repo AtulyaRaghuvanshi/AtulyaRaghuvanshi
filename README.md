@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtulyaRaghuvanshi
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Machine Learning, Web development 
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on any relevent project
 - 📫 Reach me at my email : atulyaraghuvanshi@gmail.com
 
